@@ -1,0 +1,9 @@
+The Leetspeak method uses  an alternative alphabet of numbers and symbols to replace various letters in words. For example, "leet" becomes "1337".
+
+The letter "e" will be replaced with "3".
+
+The letter "o" will be replaced with "0".
+
+The capital letter "I" will be replaced with "1".
+
+The letter "s" will be replaced with "z" unless it is the first letter of the word.
